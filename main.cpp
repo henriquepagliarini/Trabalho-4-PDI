@@ -2,7 +2,6 @@
 #include <opencv2/opencv.hpp>
 #include <vector>
 #include <string>
-#include <random>
 
 using namespace std;
 using namespace cv;
